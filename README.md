@@ -1,4 +1,4 @@
-# Employee Attrition Prediction & Analysis
+# Employee Attrition Prediction - Portfolio Project
 
 This repository contains an end-to-end data analytics and machine learning project aimed at analyzing and predicting **employee attrition**.  
 The goal is twofold:  
