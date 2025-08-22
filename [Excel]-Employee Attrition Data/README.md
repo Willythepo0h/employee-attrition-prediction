@@ -10,7 +10,7 @@ This folder contains an **Excel-based dashboard** analyzing employee attrition p
 ---
 
 ## 📂 Contents
-- **`Attrition_Dashboard.xlsx`** → The main Excel file containing:  
+- **`HR-Employee-Attrition.xlsm`** → The main Excel file containing:  
   - Processed version.  
   - Pivot Tables for analysis.  
   - Interactive dashboard with charts & slicers.  
