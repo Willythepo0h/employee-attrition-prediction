@@ -5,7 +5,7 @@ This folder contains an **Excel-based dashboard** analyzing employee attrition p
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Employee_Attrition_Dashbaord.png)
+![Dashboard Screenshot](Employee_Attrition_Dashboard.png)
 
 ---
 
