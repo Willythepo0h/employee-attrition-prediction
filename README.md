@@ -9,7 +9,7 @@ The goal is twofold:
 
 ## 📂 Repository Structure
 - **[Excel] - Employee Attrition Data**  
-  Contains Excel files used for initial exploration, descriptive statistics, and manual cleaning.  
+  Contains Excel files used for initial exploration, descriptive statistics, and manual cleaning. This folder also contains the processed excel sheet and a dashboard.
 
 - **[Machine Learning] - Employee Attrition Prediction**  
   Jupyter Notebooks (`.ipynb`) covering data preprocessing, handling class imbalance (SMOTE, class weights), and predictive modeling using Logistic Regression, Gradient Boosting, and XGBoost.  
