@@ -41,12 +41,5 @@ Evaluation metrics include **precision, recall, F1-score, ROC-AUC**, and confusi
 
 ---
 
-## 📌 How to Use
-1. Explore **Excel files** for initial data review.  
-2. Open the **Jupyter Notebooks** under Machine Learning to see preprocessing and model training.  
-3. View **Power BI dashboards** for interactive insights into attrition.  
-
----
-
 ## 📧 Contact
 For questions or collaborations, feel free to reach out via GitHub.  
