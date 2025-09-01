@@ -14,7 +14,9 @@ This dashboard provides interactive visuals to explore:
 - Attrition rates by demographics (age, gender, education, marital status)  
 - Attrition by job role, department, and salary band  
 - Key performance indicators (KPIs) for HR decision-making  
-- Trends and patterns in employee retention  
+- Trends and patterns in employee retention
+
+![Dashboard](https://github.com/Willythepo0h/employee-attrition-prediction/blob/main/%5BPowerBI%5D-Employee%20Attrition%20Data/Employee_Attrition_Dashboard.png)
 
 ---
 
